@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pawn-guild/static/css/main.4e5455b7.css",
-    "main.js": "/pawn-guild/static/js/main.1f00bf2e.js",
-    "static/js/453.dcbd77c3.chunk.js": "/pawn-guild/static/js/453.dcbd77c3.chunk.js",
+    "main.css": "/pawn-guild/static/css/main.b766b714.css",
+    "main.js": "/pawn-guild/static/js/main.c6367ccd.js",
+    "static/media/Inter-SemiBold-slnt=0.ttf": "/pawn-guild/static/media/Inter-SemiBold-slnt=0.c6588ec1e3a1f399c5c0.ttf",
+    "static/media/Inter-Regular-slnt=0.ttf": "/pawn-guild/static/media/Inter-Regular-slnt=0.9cd7588f47651215d52f.ttf",
     "index.html": "/pawn-guild/index.html",
-    "main.4e5455b7.css.map": "/pawn-guild/static/css/main.4e5455b7.css.map",
-    "main.1f00bf2e.js.map": "/pawn-guild/static/js/main.1f00bf2e.js.map",
-    "453.dcbd77c3.chunk.js.map": "/pawn-guild/static/js/453.dcbd77c3.chunk.js.map"
+    "main.b766b714.css.map": "/pawn-guild/static/css/main.b766b714.css.map",
+    "main.c6367ccd.js.map": "/pawn-guild/static/js/main.c6367ccd.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e5455b7.css",
-    "static/js/main.1f00bf2e.js"
+    "static/css/main.b766b714.css",
+    "static/js/main.c6367ccd.js"
   ]
 }
