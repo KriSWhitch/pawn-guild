@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pawn-guild/static/css/main.b766b714.css",
-    "main.js": "/pawn-guild/static/js/main.c6367ccd.js",
+    "main.js": "/pawn-guild/static/js/main.664681c8.js",
     "static/media/Inter-SemiBold-slnt=0.ttf": "/pawn-guild/static/media/Inter-SemiBold-slnt=0.c6588ec1e3a1f399c5c0.ttf",
     "static/media/Inter-Regular-slnt=0.ttf": "/pawn-guild/static/media/Inter-Regular-slnt=0.9cd7588f47651215d52f.ttf",
     "index.html": "/pawn-guild/index.html",
     "main.b766b714.css.map": "/pawn-guild/static/css/main.b766b714.css.map",
-    "main.c6367ccd.js.map": "/pawn-guild/static/js/main.c6367ccd.js.map"
+    "main.664681c8.js.map": "/pawn-guild/static/js/main.664681c8.js.map"
   },
   "entrypoints": [
     "static/css/main.b766b714.css",
-    "static/js/main.c6367ccd.js"
+    "static/js/main.664681c8.js"
   ]
 }
