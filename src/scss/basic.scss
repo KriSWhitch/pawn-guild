@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Inter";
+    src: url("../static/fonts/Inter/static/Inter-Regular-slnt=0.ttf");
+}
+@font-face {
+    font-family: "Barlow Semi Condensed";
+    src: url("../static/fonts/Inter/static/Inter-SemiBold-slnt=0.ttf");
+}
+
+//variables
+$main-blue-color: #25245b;
+$light-gray-color: #F2F4F5;
+$dark-gray-color: #9291ad;
+$dark-blue-color: #0E3C60;
+$white-color: #ffffff;
+$bright-blue: #28a6df;
+$bright-red: #ff3b30;
+$pale-red: #ff6262;
+$black: #000000;
+$maxWidth: 100%;
+
+.container {
+    padding: 24px 0;
+}

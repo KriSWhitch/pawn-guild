@@ -1,0 +1,61 @@
+// opacity can be changed by creating new class name: modal__backdrop_08 - opacity change to  background: rgba(0, 0, 0, 0.8);
+.modal__backdrop {
+    background: rgba(0, 0, 0, 0.4);
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    z-index: 200;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    left: 0;
+    max-width: unset !important;
+}
+.modal__container {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 80%;
+    background: #e0e0e0;
+    border-radius: 14px;
+    z-index: 300;
+}
+.modal__button {
+    color: #007aff;
+    width: 100%;
+    padding: 10px 0;
+    font-size: 17px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: -0.408px;
+    border-top: 1px solid #b0b3cc;
+    cursor: pointer;
+}
+.html-markup__container {
+    padding: 20px;
+    white-space: pre-wrap;
+    color: $black;
+    letter-spacing: normal;
+
+    a {
+        display: initial;
+        text-decoration: underline;
+    }
+    * {
+        font-size: 16px !important;
+    }
+}
+.modal__text {
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: -0.408px;
+    color: $black;
+    padding: 20px 10px;
+    box-sizing: border-box;
+    width: 100%;
+}

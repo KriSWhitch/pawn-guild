@@ -1,0 +1,1 @@
+export const phoneNumberRegex = /^(\+[1-9]{1}[0-9]{3,16})?([0-9]{9,16})$/;

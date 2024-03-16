@@ -1,0 +1,27 @@
+.no-loader {
+    display: none;
+}
+
+.loader {
+    position: absolute;
+    z-index: 15;
+    background-color: $white-color;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    overflow: hidden;
+    max-width: 100% !important;
+
+    img {
+        max-height: 406px;
+        max-width: 72px !important;
+        width: 100%;
+    }
+}
